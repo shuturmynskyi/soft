@@ -1,6 +1,3 @@
-Hello git!
-
-Hello AB
-
-
-new
+Hello, git!
+I' m practicing.
+Have a good day!
